@@ -1,0 +1,155 @@
+.shakticontainer {
+    margin: 0 auto;
+    position: relative;
+}
+
+ul {
+    padding: 0% 5%;
+}
+
+li {
+    list-style: none;
+    padding: 4% 0%;
+    border-bottom: 1px solid;
+    border-bottom-color: #999;
+}
+
+a {
+    text-decoration: none;
+}
+
+.shaktiheading {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 2px solid white;
+}
+
+.shakticount {
+    font-weight: bold;
+    color: black;
+}
+
+.shaktitext {
+    color: #999;
+}
+
+.fa-twitter {
+    color: #55ACEE;
+}
+
+.fa-facebook {
+    color: #45619D;
+}
+
+.fa-google-plus {
+    color: #DD5B52;
+}
+
+.fa-pinterest {
+    color: #BE061A;
+}
+
+.fa-linkedin {
+    color: #298EC1;
+}
+
+.fa-behance {
+    color: #056DFA;
+}
+
+.fa-rss {
+    color: #FBA54A;
+}
+
+.shaktibutton {
+    float: right;
+    border: 1px solid;
+}
+
+.twitter {
+    background-color: #55ACEE;
+    border-color: #55ACEE;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.facebook {
+    background-color: #45619D;
+    border-color: #45619D;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.google-plus {
+    background-color: #DD5B52;
+    border-color: #DD5B52;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.pinterest {
+    background-color: #BE061A;
+    border-color: #BE061A;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.linkedin {
+    background-color: #298EC1;
+    border-color: #298EC1;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.behance {
+    background-color: #056DFA;
+    border-color: #056DFA;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.rss {
+    background-color: #FBA54A;
+    border-color: #FBA54A;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.sidebar_1 {
+    position: relative;
+    width: 320px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background: #2c3e50;
+    background: rgba(43, 97, 151, 0.4);
+    color: #eee;
+    min-height: 400px;
+}
+.sidebar_2 {
+    position: absolute;
+    top: 500px;
+    right: 10px;
+    width: 320px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background: #2c3e50;
+    background: rgba(43, 97, 151, 0.4);
+    color: #eee;
+    min-height: 400px;
+}
+
+ul li:hover .shaktibutton{
+    padding-right: 10px;
+}
+.sidebar_2 span{
+    color: black;
+}
